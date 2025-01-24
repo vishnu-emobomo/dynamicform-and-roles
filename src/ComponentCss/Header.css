@@ -1,0 +1,26 @@
+.custom-app-bar {
+    background-color: white !important; 
+  }
+
+  .custom-toolbar {
+    min-height: 10px !important; 
+  }
+
+  .custom-logo img {
+    height: auto;
+    width: auto; /* Keep the aspect ratio */
+    display: block;
+    margin: auto 0; /* Center vertically */
+    height: 40px ;
+  }
+
+  .custom-logo{
+    width : 100px;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    margin-left: -40px;
+    margin-right: 10px;
+   }
+  
+  

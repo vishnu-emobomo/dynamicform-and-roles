@@ -1,0 +1,11 @@
+/* .custom-subHeader{
+    background: linear-gradient(to right, #ff5317, #ffae00)
+    !important;
+} */
+
+.link{
+    color: white !important;
+    cursor: pointer;
+    text-decoration: none !important;
+    font-size: 15px !important;
+}
